@@ -1,1 +1,1 @@
-# TUA-astro-Hackhaton-arktos
+# TUA-astro-Hackathon-arktos
