@@ -1,1 +1,1 @@
-# TUA-astro-Hechaton-arktos
+# TUA-astro-Hackhaton-arktos
